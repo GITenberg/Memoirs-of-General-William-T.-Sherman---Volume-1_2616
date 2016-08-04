@@ -1,0 +1,33 @@
+_repo: Memoirs-of-General-William-T.-Sherman---Volume-1_2616
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sherman, William T. (William Tecumseh)
+    aliases:
+    - Sherman, William Tecumseh
+    - Sherman, W. T. (William Tecumseh)
+    birthdate: 1820
+    deathdate: 1891
+    gutenberg_agent_id: '978'
+    url: http://www.gutenberg.org/2009/agents/978
+    wikipedia: http://en.wikipedia.org/wiki/William_Tecumseh_Sherman
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcsh 'United States. Army -- Biography'
+- !lcsh 'Sherman, William T. (William Tecumseh), 1820-1891'
+- GITenberg
+title: Memoirs of General William T. Sherman — Volume 1
+url: http://www.gutenberg.org/ebooks/2616
